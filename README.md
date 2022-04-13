@@ -1,13 +1,16 @@
-# MAD_Assignment_1_List_in_Flutter
+# flutter_application_assihnment_1
 
-In this assignment:
+A new Flutter project.
 
-1) a flutter app
+## Getting Started
 
-2) create an object with hard coded list of items, for example apple, orange, rambutan...
+This project is a starting point for a Flutter application.
 
-3) Create a textbox widget to enter a choice of 1,2,3,or ...
+A few resources to get you started if this is your first Flutter project:
 
-4, Create a button to access the list and display the content of the list depending on what was chosen on the textbox. 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-So if 1 is entered in the textbox, than, display apple.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
